@@ -1,0 +1,9 @@
+build/
+dataset/
+results/
+__pycache__/
+*.pyc
+*.log
+core
+core.*
+.DS_Store

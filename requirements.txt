@@ -1,0 +1,5 @@
+# Python dependencies required for PVLDB Reproducibility Evaluation scripts
+# This configures plotting elements, array computations, and runbook handling.
+numpy>=1.19.5
+matplotlib
+pyyaml
